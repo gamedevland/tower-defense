@@ -1,5 +1,5 @@
-# Tower Defense game with PixiJS
+# PIXI project template
 
-Tutorial: https://gamedev.land/tower-defense/
+Tutorial: https://gamedev.land/pixi_project_template/
 
-Preview demo: https://gamedevland.github.io/tower-defense/
+
